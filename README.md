@@ -1,13 +1,14 @@
-# Computacion-Grafica
-UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
-FACULTAD DE INGENIERÍA
-DIVISIÓN DE INGENIERÍA ELÉCTRICA
-INGENIERÍA EN COMPUTACIÓN
-LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+# Computación Gráfica
 
-NOMBRE COMPLETO: Robles Chávez Uri Shuhua Alexei 
-Nº de Cuenta: 320195318
-GRUPO DE LABORATORIO: 03
-GRUPO DE TEORÍA: 05
-SEMESTRE 2027-1
+## Universidad Nacional Autónoma de México
 
+**Facultad de Ingeniería**  
+**División de Ingeniería Eléctrica**  
+**Ingeniería en Computación**  
+**Laboratorio de Computación Gráfica e Interacción Humano-Computadora**
+
+**Nombre completo:** Robles Chávez Uri Shuhua Alexei  
+**N.º de cuenta:** 320195318  
+**Grupo de laboratorio:** 03  
+**Grupo de teoría:** 05  
+**Semestre:** 2027-1
