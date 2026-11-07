@@ -1,0 +1,17 @@
+# Cohete por keyframes. Posiciones relativas a la plataforma; giro Z en grados.
+# t   prop_x prop_y prop_z prop_giro   etapa_x etapa_y etapa_z etapa_giro   cap_x cap_y cap_z cap_giro   fuego_prop fuego_etapa
+0   0 1 0 0   0 7 0 0   0 11 0 0   0 0
+2   0 1 0 0   0 7 0 0   0 11 0 0   0.8 0
+5   0 18 0 0   0 24 0 0   0 28 0 0   1 0
+7   0 34 0 0   0 40 0 0   0 44 0 0   0 0
+9   -8 28 0 30   0 52 0 0   0 56 0 0   0 0.9
+11   -16 13 4 65   0 58 0 0   0 62 0 0   0 0
+13   -22 2.3 7 90   8 48 -4 -30   0 68 0 0   0 0
+16   -22 2.3 7 90   17 20 -9 -60   5 70 -12 0   0 0
+19   -22 2.3 7 90   24 1.5 -12 -90   2 72 -4 0   0 0
+# Orbita: cuatro puntos y repeticion del primero, con tiempos equidistantes.
+20   -22 2.3 7 90   24 1.5 -12 -90   0 72 0 0   0 0
+23   -22 2.3 7 90   24 1.5 -12 -90   -18 72 18 -12   0 0
+26   -22 2.3 7 90   24 1.5 -12 -90   -36 72 0 0   0 0
+29   -22 2.3 7 90   24 1.5 -12 -90   -18 72 -18 12   0 0
+32   -22 2.3 7 90   24 1.5 -12 -90   0 72 0 0   0 0
